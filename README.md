@@ -1,1 +1,4 @@
 # Electrical-Resistor
+
+
+The goal of this program is to model and simulate the effects of an electrical resistor using object oriented concepts in c++. The project utilizes two classes one simulating the traits of a resistor and the other a circuit using values from the resistor class. There are no inputs for this specific project in regards to user input. Inputs are set by default using values from the project example. For outputs, the program displays the static nominal resistance and static tolerance percentage of the resistor. There is an instance where random value generation is used to calculate the actual resistance. In part 1b of the project, a sample resistor displays the same information as well as the color bands respective to the sample resistor. Lastly, the circuits are displayed from 0 to 1. There were instances where some logic and constructor initialization had to be changed. Random color generation needed some error handling as well.
